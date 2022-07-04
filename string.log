@@ -1,0 +1,28 @@
+INFO,2022-07-04 20:57:21,318,root,----inside user defined string class ----
+INFO,2022-07-04 20:57:21,318,root,---inside __init__ fuction---
+INFO,2022-07-04 20:57:21,318,root,---inside extract_list function---
+INFO,2022-07-04 20:57:21,318,root,function is available
+INFO,2022-07-04 20:57:21,319,root,---inside dict_ele function---
+INFO,2022-07-04 20:57:21,319,root,function available
+INFO,2022-07-04 20:57:21,319,root,----inside tuple_ele function---
+INFO,2022-07-04 20:57:21,319,root,function available
+INFO,2022-07-04 20:57:21,319,root,---inside num_data function---
+INFO,2022-07-04 20:57:21,319,root,function is available
+INFO,2022-07-04 20:57:21,319,root,---inside sum_all_data function---
+INFO,2022-07-04 20:57:21,319,root,function is available
+INFO,2022-07-04 20:57:21,320,root,---inside odd_fetch_list function---
+INFO,2022-07-04 20:57:21,320,root,function is available
+INFO,2022-07-04 20:57:21,320,root,inside extaract_ineuron function
+INFO,2022-07-04 20:57:21,320,root,function is available
+INFO,2022-07-04 20:57:21,320,root,inside ele_count
+INFO,2022-07-04 20:57:21,322,root,function is available
+INFO,2022-07-04 20:57:21,322,root,----inside count_keys----
+INFO,2022-07-04 20:57:21,325,root,function available
+INFO,2022-07-04 20:57:21,325,root,----inside filter_str---
+INFO,2022-07-04 20:57:21,325,root,function is available
+INFO,2022-07-04 20:57:21,325,root,----inside alpha_num----
+INFO,2022-07-04 20:57:21,325,root,function available
+INFO,2022-07-04 20:57:21,326,root,----multi_within_collection----
+INFO,2022-07-04 20:57:21,326,root,function available
+INFO,2022-07-04 20:57:21,326,root,---inside flat|_list---
+INFO,2022-07-04 20:57:21,326,root,function available
